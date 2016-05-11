@@ -63,7 +63,6 @@ Todos están cordialmente invitados a modificar esta lista, solo deben realizar 
 | Galaxialab | www.galaxialab.cl |     | Maite Schoenfelder Castroviejo |
 | Gesnex | www.gesnex.com |     | Alfredo Concha |
 | Getmotionz | www.getmotionz.com |     | José Souto |
-| Google | www.google.com |     | Cristian Sandoval Soto |
 | Goplaceit | www.goplaceit.com |     | Daniel Ibarra |
 | Gotochiletravel | http://www.gotochiletravel.cl |     | Priss Winehouse |
 | Greendoor | www.greendoor.cl |     | Juan Pablo Palacios Hermosilla |
