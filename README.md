@@ -1,7 +1,7 @@
 # Startups Chilenas
 Listado de startups chilenas obtenidas inicialmente en este post: https://www.facebook.com/groups/leanstartupchile/permalink/963338357095528/
 
-Todos están cordialmente invitados a modificar esta lista, solo deben realizar un pull request. Si no saben como hacer pidanle al programador de su Startup el va a saber ;)
+Todos están cordialmente invitados a modificar esta lista, solo deben realizar un pull request y seguir el orden alfabético. Si no saben como hacer pidanle al programador de su Startup el va a saber ;)
 
 | Nombre | Link | Industria | Contacto Fb | 
 | ---- | ---- | ---- | ---- | 
