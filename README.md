@@ -11,7 +11,7 @@ Todos están cordialmente invitados a modificar esta lista, solo deben realizar 
 | Americanfastchile | www.americanfastchile.com |     | Andrew Holmes |
 | Ancorpseguridad | www.ancorpseguridad.cl |     | Alberto Llanos Angulo |
 | Appi | www.appi.cl |     | Alejandro Betancourt |
-| Asistecar | www.asistecar.cl |     | Cristian A. Vasquez Parga |
+| Asistecar | www.asistecar.cl |Automóviles| Cristian A. Vasquez Parga |
 | Atrevetecl | www.atrevetecl.com |     | Juan Pablo Pedreros |
 | Bamboleo | www.bamboleo.cl |     | Marggiana Karellia |
 | Bardo1 | www.bardo1.com |     | Walter Rodrigo Muñoz Zamorano |
@@ -140,12 +140,12 @@ Todos están cordialmente invitados a modificar esta lista, solo deben realizar 
 | Synectik | www.synectik.cl |     | Ricardo Icarte |
 | Tartaletita | http://bazar.tartaletita.cl |     | Daniela Hernández Henríquez |
 | Tecnoprogramadores | www.tecnoprogramadores.cl |     | Matthias Jonathan Prieto Castillo |
-| Things | www.things.cl |     | Cristian A. Vasquez Parga |
+| Things | www.things.cl |Regalos/Flores| Cristian A. Vasquez Parga |
 | Ti-integra | www.ti-integra.cl |     | Claudio Andres Fuentes |
 | Tiakaren | www.tiakaren.cl |     | Alejandro Betancourt |
 | Ticlass | www.ticlass.com |     | Nico Melgarejo Sabelle |
 | Todoip | www.todoip.cl |     | JPablo JP |
-| Toolmania | www.toolmania.cl |     | Cristian A. Vasquez Parga |
+| Toolmania | www.toolmania.cl |Herramientas| Cristian A. Vasquez Parga |
 | Trescuartas | http://www.trescuartas.cl |     | Pato André Díaz |
 | Tuestampa | http://www.tuestampa.cl |     | Jesus Caballero |
 | Twoway | www.twoway.cl |     | Elson González |
